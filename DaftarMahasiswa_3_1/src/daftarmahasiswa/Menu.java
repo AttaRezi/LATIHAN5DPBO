@@ -435,6 +435,7 @@ public class Menu extends javax.swing.JFrame {
         this.isUpdate = false;
         
         // Reset Form
+        cancel();
     }//GEN-LAST:event_btnCancelActionPerformed
 
     private void fieldGenderActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_fieldGenderActionPerformed
