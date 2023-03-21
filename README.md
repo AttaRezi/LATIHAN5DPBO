@@ -28,3 +28,11 @@ Pada tugas ini terdapat file jar ('Hasil.jar') didalam folder 'DaftarMahasiswa_3
      
 4. Validation, ketika salah satu field kosong dan ada perintah yang diklik (update, add, dan delete), maka akan puncul pesan pop-up yang memberitahu field mana yang belum diisi.<br>
    ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/check.gif)
+   
+   
+   note : kayaknya gif tidak dapat ditampilkan pada readme file, oleh karena itu untuk dokumentasi percobaan program dapat langsung diliat pada folder asset dgn keterangan ->
+   - Add data -> dapat dilihat pada file Insert.gif
+   - Update -> dapat dilihat pada file Update.gif
+   - Delete -> dapat dilihat pada file Delete.gif
+   - Cancel fill form -> dapat dilihat pada file Cancel.gif
+   - Validation form -> dapat dilihat pada file check.gif
