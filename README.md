@@ -5,3 +5,9 @@
 
 #### Latihan 5 - Java GUI
 Pada tugas ini terdapat file jar ('Hasil.jar') didalam folder 'DaftarMahasiswa_3_1' yang merupakan hasil tugas yang telah saya kerjakan. Untuk source code beserta file jar  juga dilampirkan pada folder 'DaftarMahasiswa_3_1'. Berikut penjelasan mengenai apa yang telah saya kerjakan beserta dokumentasi hasilnya.
+
+1. Id setiap komponen telah diubah sesuai kegunaan/fungsinya.<br>
+   ![](Assets/MenuID.png)
+   
+2. Berikut hasil tampilan program dimana terdapat atribut yang ditambahkan, yaitu atribut kelas. Terlihat juga bahwa font telah diubah dan telah ditambahkan kolom untuk  menampilkan atribut kelas.
+   
