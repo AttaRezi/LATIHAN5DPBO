@@ -15,13 +15,13 @@ Pada tugas ini terdapat file jar ('Hasil.jar') didalam folder 'DaftarMahasiswa_3
     
 3. Terdapat 4 perintah yaitu add, update, delete, dan cancel. Pada semua perintah tersebut telah dibuat validation form berupa pop-up massage, setelah setiap perintah juga text field dibersihkan, dan ketika data pada tabel diklik akan muncul button 'update' dan 'delete'. Berikut beberapa dokumentasi perintah yang telah dilakukan.
    - Perintah 'add', dimana setelah data ditambahkan text field dibersihkan dan table di update.<br>
-     ![](Assets/Insert.gif)
+     ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/Insert.gif)
    - Perintah 'cancel', dimana setelah dicancel text field akan dibersihkan.<br>
-     ![](Assets/Cancel.gif)
+     ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/Cancel.gif)
    - Perintah 'update', dimana jika data pada table diklik, maka perintah add menjadi update, dan data yang diklik akan muncul pada textfield sehingga dapat diubah. Setelah tombol diklik, text field dibersihkan dan table diupdate.<br>
-     ![](Assets/Update.gif)
+     ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/Update.gif)
    - Perintah 'delete'. dimana jika data pada tabel diklik, maka perintah delete muncul dan setelah diklil tombol delete, maka data text field dibersihkan dan tabel duipdate.<br>
-     ![](Assets/Delete.gif)
+     ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/Delete.gif)
      
 4. Validation, ketika salah satu field kosong dan ada perintah yang diklik (update, add, dan delete), maka akan puncul pesan pop-up yang memberitahu field mana yang belum diisi.<br>
-   ![](Assets/check.gif)
+   ![](https://github.com/AttaRezi/LATIHAN5DPBO/tree/main/Assets/check.gif)
