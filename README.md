@@ -9,5 +9,5 @@ Pada tugas ini terdapat file jar ('Hasil.jar') didalam folder 'DaftarMahasiswa_3
 1. Id setiap komponen telah diubah sesuai kegunaan/fungsinya.<br>
    ![](Assets/MenuID.png)
    
-2. Berikut hasil tampilan program dimana terdapat atribut yang ditambahkan, yaitu atribut kelas. Terlihat juga bahwa font telah diubah dan telah ditambahkan kolom untuk  menampilkan atribut kelas.
-   
+2. Berikut hasil tampilan program dimana terdapat atribut yang ditambahkan, yaitu atribut gender yang menggunakan combo box. Telah ditambahkan kolom untuk menampilkan atribut Kelamin.
+    ![](Assets/Tampilan.png)
